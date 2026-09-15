@@ -114,4 +114,4 @@ CGPA: 3.69 / 4.00
 
 ### 📫 Let's Connect
 
-Always open to interesting engineering conversations, collaboration, or opportunities in Ruby on Rails / full-stack SaaS development.
+Always open to interesting engineering conversations, collaboration, or opportunities as a Full Stack Engineer.
