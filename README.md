@@ -75,11 +75,15 @@ I build and scale enterprise SaaS products — from backend architecture and ser
 
 ### 🎓 Education
 
-**Master's in Information Systems** — Uppsala University, Uppsala, Sweden *(09/2025)*
-Focus: Complex Information Systems, Artificial Intelligence, Machine Learning
+🎓 **Master's in Information Systems**  
+📍 Uppsala University, Uppsala, Sweden  
+📅 09/2025  
+🔬 Focus: Complex Information Systems, Artificial Intelligence, Machine Learning
 
-**Bachelor of Science in Information Technology** — University of the Punjab, Lahore, Pakistan *(10/2016 – 07/2020)*
-CGPA: 3.69 / 4.00
+🎓 **Bachelor of Science in Information Technology**  
+📍 University of the Punjab, Lahore, Pakistan  
+📅 10/2016 – 07/2020  
+📊 CGPA: 3.69 / 4.00
 
 ---
 
